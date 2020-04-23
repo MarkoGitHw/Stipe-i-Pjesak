@@ -1,2 +1,3 @@
 "biLO jednom kurac"
 NASTAVAK
+kurac
